@@ -138,7 +138,7 @@ requirements.txt
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourname/local-semantic-search
+git clone https://github.com/heresalord/localsearchengine/
 cd local-semantic-search
 ````
 
